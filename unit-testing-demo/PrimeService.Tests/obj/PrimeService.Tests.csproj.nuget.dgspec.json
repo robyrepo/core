@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rob\\Documents\\LAVORO LVR\\TESTVSCODE\\second\\unit-testing-demo\\PrimeService.Tests\\PrimeService.Tests.csproj": {}
+    "C:\\Users\\rob\\source\\repos\\Core\\unit-testing-demo\\PrimeService.Tests\\PrimeService.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rob\\Documents\\LAVORO LVR\\TESTVSCODE\\second\\unit-testing-demo\\PrimeService.Tests\\PrimeService.Tests.csproj": {
+    "C:\\Users\\rob\\source\\repos\\Core\\unit-testing-demo\\PrimeService.Tests\\PrimeService.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rob\\Documents\\LAVORO LVR\\TESTVSCODE\\second\\unit-testing-demo\\PrimeService.Tests\\PrimeService.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\rob\\source\\repos\\Core\\unit-testing-demo\\PrimeService.Tests\\PrimeService.Tests.csproj",
         "projectName": "PrimeService.Tests",
-        "projectPath": "C:\\Users\\rob\\Documents\\LAVORO LVR\\TESTVSCODE\\second\\unit-testing-demo\\PrimeService.Tests\\PrimeService.Tests.csproj",
+        "projectPath": "C:\\Users\\rob\\source\\repos\\Core\\unit-testing-demo\\PrimeService.Tests\\PrimeService.Tests.csproj",
         "packagesPath": "C:\\Users\\rob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rob\\Documents\\LAVORO LVR\\TESTVSCODE\\second\\unit-testing-demo\\PrimeService.Tests\\obj\\",
+        "outputPath": "C:\\Users\\rob\\source\\repos\\Core\\unit-testing-demo\\PrimeService.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -33,8 +33,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\rob\\Documents\\LAVORO LVR\\TESTVSCODE\\second\\unit-testing-demo\\PrimeService\\PrimeService.csproj": {
-                "projectPath": "C:\\Users\\rob\\Documents\\LAVORO LVR\\TESTVSCODE\\second\\unit-testing-demo\\PrimeService\\PrimeService.csproj"
+              "C:\\Users\\rob\\source\\repos\\Core\\unit-testing-demo\\PrimeService\\PrimeService.csproj": {
+                "projectPath": "C:\\Users\\rob\\source\\repos\\Core\\unit-testing-demo\\PrimeService\\PrimeService.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\rob\\Documents\\LAVORO LVR\\TESTVSCODE\\second\\unit-testing-demo\\PrimeService\\PrimeService.csproj": {
+    "C:\\Users\\rob\\source\\repos\\Core\\unit-testing-demo\\PrimeService\\PrimeService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rob\\Documents\\LAVORO LVR\\TESTVSCODE\\second\\unit-testing-demo\\PrimeService\\PrimeService.csproj",
+        "projectUniqueName": "C:\\Users\\rob\\source\\repos\\Core\\unit-testing-demo\\PrimeService\\PrimeService.csproj",
         "projectName": "PrimeService",
-        "projectPath": "C:\\Users\\rob\\Documents\\LAVORO LVR\\TESTVSCODE\\second\\unit-testing-demo\\PrimeService\\PrimeService.csproj",
+        "projectPath": "C:\\Users\\rob\\source\\repos\\Core\\unit-testing-demo\\PrimeService\\PrimeService.csproj",
         "packagesPath": "C:\\Users\\rob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rob\\Documents\\LAVORO LVR\\TESTVSCODE\\second\\unit-testing-demo\\PrimeService\\obj\\",
+        "outputPath": "C:\\Users\\rob\\source\\repos\\Core\\unit-testing-demo\\PrimeService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

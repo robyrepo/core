@@ -14,3 +14,19 @@ C:\Users\rob\Documents\LAVORO LVR\TESTVSCODE\second\unit-testing-demo\MyProgCons
 C:\Users\rob\Documents\LAVORO LVR\TESTVSCODE\second\unit-testing-demo\MyProgConsole\obj\Debug\netcoreapp3.1\MyProgConsole.dll
 C:\Users\rob\Documents\LAVORO LVR\TESTVSCODE\second\unit-testing-demo\MyProgConsole\obj\Debug\netcoreapp3.1\MyProgConsole.pdb
 C:\Users\rob\Documents\LAVORO LVR\TESTVSCODE\second\unit-testing-demo\MyProgConsole\obj\Debug\netcoreapp3.1\MyProgConsole.genruntimeconfig.cache
+C:\Users\rob\source\repos\Core\unit-testing-demo\MyProgConsole\bin\Debug\netcoreapp3.1\MyProgConsole.exe
+C:\Users\rob\source\repos\Core\unit-testing-demo\MyProgConsole\bin\Debug\netcoreapp3.1\MyProgConsole.deps.json
+C:\Users\rob\source\repos\Core\unit-testing-demo\MyProgConsole\bin\Debug\netcoreapp3.1\MyProgConsole.runtimeconfig.json
+C:\Users\rob\source\repos\Core\unit-testing-demo\MyProgConsole\bin\Debug\netcoreapp3.1\MyProgConsole.runtimeconfig.dev.json
+C:\Users\rob\source\repos\Core\unit-testing-demo\MyProgConsole\bin\Debug\netcoreapp3.1\MyProgConsole.dll
+C:\Users\rob\source\repos\Core\unit-testing-demo\MyProgConsole\bin\Debug\netcoreapp3.1\MyProgConsole.pdb
+C:\Users\rob\source\repos\Core\unit-testing-demo\MyProgConsole\bin\Debug\netcoreapp3.1\PrimeService.dll
+C:\Users\rob\source\repos\Core\unit-testing-demo\MyProgConsole\bin\Debug\netcoreapp3.1\PrimeService.pdb
+C:\Users\rob\source\repos\Core\unit-testing-demo\MyProgConsole\obj\Debug\netcoreapp3.1\MyProgConsole.csprojAssemblyReference.cache
+C:\Users\rob\source\repos\Core\unit-testing-demo\MyProgConsole\obj\Debug\netcoreapp3.1\MyProgConsole.csproj.CoreCompileInputs.cache
+C:\Users\rob\source\repos\Core\unit-testing-demo\MyProgConsole\obj\Debug\netcoreapp3.1\MyProgConsole.AssemblyInfoInputs.cache
+C:\Users\rob\source\repos\Core\unit-testing-demo\MyProgConsole\obj\Debug\netcoreapp3.1\MyProgConsole.AssemblyInfo.cs
+C:\Users\rob\source\repos\Core\unit-testing-demo\MyProgConsole\obj\Debug\netcoreapp3.1\MyProgConsole.csproj.CopyComplete
+C:\Users\rob\source\repos\Core\unit-testing-demo\MyProgConsole\obj\Debug\netcoreapp3.1\MyProgConsole.dll
+C:\Users\rob\source\repos\Core\unit-testing-demo\MyProgConsole\obj\Debug\netcoreapp3.1\MyProgConsole.pdb
+C:\Users\rob\source\repos\Core\unit-testing-demo\MyProgConsole\obj\Debug\netcoreapp3.1\MyProgConsole.genruntimeconfig.cache

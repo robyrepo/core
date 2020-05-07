@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rob\\Documents\\LAVORO LVR\\TESTVSCODE\\second\\unit-testing-demo\\MyProgConsole\\MyProgConsole.csproj",
+      "projectUniqueName": "C:\\Users\\rob\\source\\repos\\Core\\unit-testing-demo\\MyProgConsole\\MyProgConsole.csproj",
       "projectName": "MyProgConsole",
-      "projectPath": "C:\\Users\\rob\\Documents\\LAVORO LVR\\TESTVSCODE\\second\\unit-testing-demo\\MyProgConsole\\MyProgConsole.csproj",
+      "projectPath": "C:\\Users\\rob\\source\\repos\\Core\\unit-testing-demo\\MyProgConsole\\MyProgConsole.csproj",
       "packagesPath": "C:\\Users\\rob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rob\\Documents\\LAVORO LVR\\TESTVSCODE\\second\\unit-testing-demo\\MyProgConsole\\obj\\",
+      "outputPath": "C:\\Users\\rob\\source\\repos\\Core\\unit-testing-demo\\MyProgConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -59,8 +59,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\rob\\Documents\\LAVORO LVR\\TESTVSCODE\\second\\unit-testing-demo\\PrimeService\\PrimeService.csproj": {
-              "projectPath": "C:\\Users\\rob\\Documents\\LAVORO LVR\\TESTVSCODE\\second\\unit-testing-demo\\PrimeService\\PrimeService.csproj"
+            "C:\\Users\\rob\\source\\repos\\Core\\unit-testing-demo\\PrimeService\\PrimeService.csproj": {
+              "projectPath": "C:\\Users\\rob\\source\\repos\\Core\\unit-testing-demo\\PrimeService\\PrimeService.csproj"
             }
           }
         }

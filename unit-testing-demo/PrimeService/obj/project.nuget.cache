@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BOgBDYfBmvNLKvvsV8uQYdkA6xBUtmsScrJe60b04ejDAYCFbfvSI438XeXaQDs34eQ5rmsS7/HusislAm2QsQ==",
+  "dgSpecHash": "QghchXs6Z/mH4lm8B6EjLdwVpstNGqG9UcchQNLYJxBWqfBFGYU5QBEfrsYmgcmmEptz3gO/HV3xZrVaocgI5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rob\\Documents\\LAVORO LVR\\TESTVSCODE\\second\\unit-testing-demo\\PrimeService\\PrimeService.csproj",
+  "projectFilePath": "C:\\Users\\rob\\source\\repos\\Core\\unit-testing-demo\\PrimeService\\PrimeService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rob\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

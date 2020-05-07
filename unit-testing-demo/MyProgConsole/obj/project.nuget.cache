@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8JIny82LS1ZYVAoSHeVpeVHwQjGTJjNftKAzxYhzFYoqbsfGMOEtQksydvt4dDmyE7uhWEZ+Lm5JTyxi8v3jcw==",
+  "dgSpecHash": "iQEJOmzx+cnntO5R+8i9+Qn2OS8ccn75fZ6X1wwFUHquONI1JW0MPtJkY888wumdxUnUp3zBRFp6GjAzlSoD6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rob\\Documents\\LAVORO LVR\\TESTVSCODE\\second\\unit-testing-demo\\MyProgConsole\\MyProgConsole.csproj",
+  "projectFilePath": "C:\\Users\\rob\\source\\repos\\Core\\unit-testing-demo\\MyProgConsole\\MyProgConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

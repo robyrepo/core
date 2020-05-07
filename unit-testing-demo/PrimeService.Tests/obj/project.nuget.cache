@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oUFWAOrgvlos6udlKAVc2xU2Ia0D8kssvL5zZjiLxlWWFUB3aGYJRN32CL5CimVqJLhyuNCYwR/AALXDyM2aXg==",
+  "dgSpecHash": "+el4bxSARgTTZrftASgXOC0ULC/w3f95lFJbzaTImPFXlBYZ8i/A/Yy7q6iRG3HmxcbAgfuRxaUQ7THp2k/A1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rob\\Documents\\LAVORO LVR\\TESTVSCODE\\second\\unit-testing-demo\\PrimeService.Tests\\PrimeService.Tests.csproj",
+  "projectFilePath": "C:\\Users\\rob\\source\\repos\\Core\\unit-testing-demo\\PrimeService.Tests\\PrimeService.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rob\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\rob\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
