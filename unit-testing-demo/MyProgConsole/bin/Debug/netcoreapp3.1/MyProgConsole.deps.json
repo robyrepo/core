@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MyProgConsole/1.0.0": {
+        "dependencies": {
+          "PrimeService": "1.0.0"
+        },
+        "runtime": {
+          "MyProgConsole.dll": {}
+        }
+      },
+      "PrimeService/1.0.0": {
+        "runtime": {
+          "PrimeService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyProgConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrimeService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
