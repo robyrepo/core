@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rob\\Documents\\LAVORO LVR\\TESTVSCODE\\second\\unit-testing-demo\\MyService\\MyService.csproj": {}
+    "C:\\Users\\rob\\source\\repos\\Core\\unit-testing-demo\\MyService\\MyService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rob\\Documents\\LAVORO LVR\\TESTVSCODE\\second\\unit-testing-demo\\MyService\\MyService.csproj": {
+    "C:\\Users\\rob\\source\\repos\\Core\\unit-testing-demo\\MyService\\MyService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rob\\Documents\\LAVORO LVR\\TESTVSCODE\\second\\unit-testing-demo\\MyService\\MyService.csproj",
+        "projectUniqueName": "C:\\Users\\rob\\source\\repos\\Core\\unit-testing-demo\\MyService\\MyService.csproj",
         "projectName": "MyService",
-        "projectPath": "C:\\Users\\rob\\Documents\\LAVORO LVR\\TESTVSCODE\\second\\unit-testing-demo\\MyService\\MyService.csproj",
+        "projectPath": "C:\\Users\\rob\\source\\repos\\Core\\unit-testing-demo\\MyService\\MyService.csproj",
         "packagesPath": "C:\\Users\\rob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rob\\Documents\\LAVORO LVR\\TESTVSCODE\\second\\unit-testing-demo\\MyService\\obj\\",
+        "outputPath": "C:\\Users\\rob\\source\\repos\\Core\\unit-testing-demo\\MyService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
