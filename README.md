@@ -1,0 +1,2 @@
+# core
+some core example
